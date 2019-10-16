@@ -1,0 +1,2442 @@
+[
+    {
+        "": 121,
+        "Year": 2018,
+        "Athlete": "Yuki Kawauchi",
+        "Country": "Japan",
+        "Time": "02:15:58",
+        "Marathon": "Boston"
+    },
+    {
+        "": 120,
+        "Year": 2017,
+        "Athlete": "Geoffrey Kirui",
+        "Country": "Kenya",
+        "Time": "02:09:37",
+        "Marathon": "Boston"
+    },
+    {
+        "": 119,
+        "Year": 2016,
+        "Athlete": "Berhanu Hayle",
+        "Country": "Ethiopia",
+        "Time": "02:12:45",
+        "Marathon": "Boston"
+    },
+    {
+        "": 118,
+        "Year": 2015,
+        "Athlete": "Desisa Benti",
+        "Country": "Ethiopia",
+        "Time": "02:09:17",
+        "Marathon": "Boston"
+    },
+    {
+        "": 117,
+        "Year": 2014,
+        "Athlete": "Meb Keflezighi",
+        "Country": "United States",
+        "Time": "02:08:37",
+        "Marathon": "Boston"
+    },
+    {
+        "": 116,
+        "Year": 2013,
+        "Athlete": "Desisa Benti",
+        "Country": "Ethiopia",
+        "Time": "02:10:22",
+        "Marathon": "Boston"
+    },
+    {
+        "": 115,
+        "Year": 2012,
+        "Athlete": "Wesley Korir",
+        "Country": "Kenya",
+        "Time": "02:12:40",
+        "Marathon": "Boston"
+    },
+    {
+        "": 114,
+        "Year": 2011,
+        "Athlete": "Geoffrey Mutai",
+        "Country": "Kenya",
+        "Time": "02:03:02",
+        "Marathon": "Boston"
+    },
+    {
+        "": 113,
+        "Year": 2010,
+        "Athlete": "Kiprono Cheruiyot",
+        "Country": "Kenya",
+        "Time": "02:05:52",
+        "Marathon": "Boston"
+    },
+    {
+        "": 112,
+        "Year": 2009,
+        "Athlete": "Deriba Merga",
+        "Country": "Ethiopia",
+        "Time": "02:08:42",
+        "Marathon": "Boston"
+    },
+    {
+        "": 111,
+        "Year": 2008,
+        "Athlete": "Kipkoech Cheruiyot",
+        "Country": "Kenya",
+        "Time": "02:07:45",
+        "Marathon": "Boston"
+    },
+    {
+        "": 110,
+        "Year": 2007,
+        "Athlete": "Kipkoech Cheruiyot",
+        "Country": "Kenya",
+        "Time": "02:14:13",
+        "Marathon": "Boston"
+    },
+    {
+        "": 109,
+        "Year": 2006,
+        "Athlete": "Kipkoech Cheruiyot",
+        "Country": "Kenya",
+        "Time": "02:07:14",
+        "Marathon": "Boston"
+    },
+    {
+        "": 108,
+        "Year": 2005,
+        "Athlete": "Hailu Negussie",
+        "Country": "Ethiopia",
+        "Time": "02:11:44",
+        "Marathon": "Boston"
+    },
+    {
+        "": 107,
+        "Year": 2004,
+        "Athlete": "Timothy Cherigat",
+        "Country": "Kenya",
+        "Time": "02:10:37",
+        "Marathon": "Boston"
+    },
+    {
+        "": 106,
+        "Year": 2003,
+        "Athlete": "Kipkoech Cheruiyot",
+        "Country": "Kenya",
+        "Time": "02:10:11",
+        "Marathon": "Boston"
+    },
+    {
+        "": 105,
+        "Year": 2002,
+        "Athlete": "Rodgers Rop",
+        "Country": "Kenya",
+        "Time": "02:09:02",
+        "Marathon": "Boston"
+    },
+    {
+        "": 104,
+        "Year": 2001,
+        "Athlete": "Bong Ju",
+        "Country": "South Korea",
+        "Time": "02:09:43",
+        "Marathon": "Boston"
+    },
+    {
+        "": 103,
+        "Year": 2000,
+        "Athlete": "Elijah Lagat",
+        "Country": "Kenya",
+        "Time": "02:09:47",
+        "Marathon": "Boston"
+    },
+    {
+        "": 102,
+        "Year": 1999,
+        "Athlete": "Joseph Chebet",
+        "Country": "Kenya",
+        "Time": "02:09:52",
+        "Marathon": "Boston"
+    },
+    {
+        "": 101,
+        "Year": 1998,
+        "Athlete": "Moses Tanui",
+        "Country": "Kenya",
+        "Time": "02:07:34",
+        "Marathon": "Boston"
+    },
+    {
+        "": 100,
+        "Year": 1997,
+        "Athlete": "Lameck Aguta",
+        "Country": "Kenya",
+        "Time": "02:10:34",
+        "Marathon": "Boston"
+    },
+    {
+        "": 99,
+        "Year": 1996,
+        "Athlete": "Moses Tanui",
+        "Country": "Kenya",
+        "Time": "02:09:15",
+        "Marathon": "Boston"
+    },
+    {
+        "": 98,
+        "Year": 1995,
+        "Athlete": "Cosmas Ndeti",
+        "Country": "Kenya",
+        "Time": "02:09:22",
+        "Marathon": "Boston"
+    },
+    {
+        "": 97,
+        "Year": 1994,
+        "Athlete": "Cosmas Ndeti",
+        "Country": "Kenya",
+        "Time": "02:07:15",
+        "Marathon": "Boston"
+    },
+    {
+        "": 96,
+        "Year": 1993,
+        "Athlete": "Cosmas Ndeti",
+        "Country": "Kenya",
+        "Time": "02:09:33",
+        "Marathon": "Boston"
+    },
+    {
+        "": 95,
+        "Year": 1992,
+        "Athlete": "Ibrahim Hussein",
+        "Country": "Kenya",
+        "Time": "02:08:14",
+        "Marathon": "Boston"
+    },
+    {
+        "": 94,
+        "Year": 1991,
+        "Athlete": "Ibrahim Hussein",
+        "Country": "Kenya",
+        "Time": "02:11:06",
+        "Marathon": "Boston"
+    },
+    {
+        "": 93,
+        "Year": 1990,
+        "Athlete": "Gelindo Bordin",
+        "Country": "Italy",
+        "Time": "02:08:19",
+        "Marathon": "Boston"
+    },
+    {
+        "": 92,
+        "Year": 1989,
+        "Athlete": "Abebe Mekonnen",
+        "Country": "Ethiopia",
+        "Time": "02:09:06",
+        "Marathon": "Boston"
+    },
+    {
+        "": 91,
+        "Year": 1988,
+        "Athlete": "Ibrahim Hussein",
+        "Country": "Kenya",
+        "Time": "02:08:43",
+        "Marathon": "Boston"
+    },
+    {
+        "": 90,
+        "Year": 1987,
+        "Athlete": "Toshihiko Seko",
+        "Country": "Japan",
+        "Time": "02:11:50",
+        "Marathon": "Boston"
+    },
+    {
+        "": 89,
+        "Year": 1986,
+        "Athlete": "Robert Castella",
+        "Country": "Australia",
+        "Time": "02:07:51",
+        "Marathon": "Boston"
+    },
+    {
+        "": 88,
+        "Year": 1985,
+        "Athlete": "Geoff Smith",
+        "Country": "United Kingdom",
+        "Time": "02:14:05",
+        "Marathon": "Boston"
+    },
+    {
+        "": 87,
+        "Year": 1984,
+        "Athlete": "Geoff Smith",
+        "Country": "United Kingdom",
+        "Time": "02:10:34",
+        "Marathon": "Boston"
+    },
+    {
+        "": 86,
+        "Year": 1983,
+        "Athlete": "Greg Meyer",
+        "Country": "United States",
+        "Time": "02:09:00",
+        "Marathon": "Boston"
+    },
+    {
+        "": 85,
+        "Year": 1982,
+        "Athlete": "Alberto Salazar",
+        "Country": "United States",
+        "Time": "02:08:52",
+        "Marathon": "Boston"
+    },
+    {
+        "": 84,
+        "Year": 1981,
+        "Athlete": "Toshihiko Seko",
+        "Country": "Japan",
+        "Time": "02:09:26",
+        "Marathon": "Boston"
+    },
+    {
+        "": 83,
+        "Year": 1980,
+        "Athlete": "Bill Rodgers",
+        "Country": "United States",
+        "Time": "02:12:11",
+        "Marathon": "Boston"
+    },
+    {
+        "": 82,
+        "Year": 1979,
+        "Athlete": "Bill Rodgers",
+        "Country": "United States",
+        "Time": "02:09:27",
+        "Marathon": "Boston"
+    },
+    {
+        "": 81,
+        "Year": 1978,
+        "Athlete": "Bill Rodgers",
+        "Country": "United States",
+        "Time": "02:10:13",
+        "Marathon": "Boston"
+    },
+    {
+        "": 80,
+        "Year": 1977,
+        "Athlete": "Jerome Drayton",
+        "Country": "Canada",
+        "Time": "02:14:46",
+        "Marathon": "Boston"
+    },
+    {
+        "": 79,
+        "Year": 1976,
+        "Athlete": "Jack Fultz",
+        "Country": "United States",
+        "Time": "02:20:19",
+        "Marathon": "Boston"
+    },
+    {
+        "": 78,
+        "Year": 1975,
+        "Athlete": "Bill Rodgers",
+        "Country": "United States",
+        "Time": "02:09:55",
+        "Marathon": "Boston"
+    },
+    {
+        "": 77,
+        "Year": 1974,
+        "Athlete": "Neil Cusack",
+        "Country": "Ireland",
+        "Time": "02:13:39",
+        "Marathon": "Boston"
+    },
+    {
+        "": 76,
+        "Year": 1973,
+        "Athlete": "Jon Anderson",
+        "Country": "United States",
+        "Time": "02:16:03",
+        "Marathon": "Boston"
+    },
+    {
+        "": 75,
+        "Year": 1972,
+        "Athlete": "Olavi Suomalainen",
+        "Country": "Finland",
+        "Time": "02:15:39",
+        "Marathon": "Boston"
+    },
+    {
+        "": 74,
+        "Year": 1971,
+        "Athlete": "Alvaro Mej",
+        "Country": "Colombia",
+        "Time": "02:18:45",
+        "Marathon": "Boston"
+    },
+    {
+        "": 73,
+        "Year": 1970,
+        "Athlete": "Ron Hill",
+        "Country": "United Kingdom",
+        "Time": "02:10:30",
+        "Marathon": "Boston"
+    },
+    {
+        "": 72,
+        "Year": 1969,
+        "Athlete": "Yoshiaki Unetani",
+        "Country": "Japan",
+        "Time": "02:13:49",
+        "Marathon": "Boston"
+    },
+    {
+        "": 71,
+        "Year": 1968,
+        "Athlete": "Amby Burfoot",
+        "Country": "United States",
+        "Time": "02:22:17",
+        "Marathon": "Boston"
+    },
+    {
+        "": 70,
+        "Year": 1967,
+        "Athlete": "Dave McKenzie",
+        "Country": "Zealand New",
+        "Time": "02:15:45",
+        "Marathon": "Boston"
+    },
+    {
+        "": 69,
+        "Year": 1966,
+        "Athlete": "Kenji Kimihara",
+        "Country": "Japan",
+        "Time": "02:17:11",
+        "Marathon": "Boston"
+    },
+    {
+        "": 68,
+        "Year": 1965,
+        "Athlete": "Morio Shigematsu",
+        "Country": "Japan",
+        "Time": "02:16:33",
+        "Marathon": "Boston"
+    },
+    {
+        "": 67,
+        "Year": 1964,
+        "Athlete": "Aur Vandendriessche",
+        "Country": "Belgium",
+        "Time": "02:19:59",
+        "Marathon": "Boston"
+    },
+    {
+        "": 66,
+        "Year": 1963,
+        "Athlete": "Aur Vandendriessche",
+        "Country": "Belgium",
+        "Time": "02:18:58",
+        "Marathon": "Boston"
+    },
+    {
+        "": 65,
+        "Year": 1962,
+        "Athlete": "Eino Oksanen",
+        "Country": "Finland",
+        "Time": "02:23:48",
+        "Marathon": "Boston"
+    },
+    {
+        "": 64,
+        "Year": 1961,
+        "Athlete": "Eino Oksanen",
+        "Country": "Finland",
+        "Time": "02:23:39",
+        "Marathon": "Boston"
+    },
+    {
+        "": 63,
+        "Year": 1960,
+        "Athlete": "Paavo Kotila",
+        "Country": "Finland",
+        "Time": "02:20:54",
+        "Marathon": "Boston"
+    },
+    {
+        "": 62,
+        "Year": 1959,
+        "Athlete": "Eino Oksanen",
+        "Country": "Finland",
+        "Time": "02:22:42",
+        "Marathon": "Boston"
+    },
+    {
+        "": 61,
+        "Year": 1958,
+        "Athlete": "Franjo Mihali",
+        "Country": "Yugoslavia",
+        "Time": "02:25:54",
+        "Marathon": "Boston"
+    },
+    {
+        "": 60,
+        "Year": 1957,
+        "Athlete": "John Kelley",
+        "Country": "United States",
+        "Time": "02:20:05",
+        "Marathon": "Boston"
+    },
+    {
+        "": 59,
+        "Year": 1956,
+        "Athlete": "Antti Viskari",
+        "Country": "Finland",
+        "Time": "02:14:14",
+        "Marathon": "Boston"
+    },
+    {
+        "": 58,
+        "Year": 1955,
+        "Athlete": "Hideo Hamamura",
+        "Country": "Japan",
+        "Time": "02:18:22",
+        "Marathon": "Boston"
+    },
+    {
+        "": 57,
+        "Year": 1954,
+        "Athlete": "Veikko Karvonen",
+        "Country": "Finland",
+        "Time": "02:20:39",
+        "Marathon": "Boston"
+    },
+    {
+        "": 56,
+        "Year": 1953,
+        "Athlete": "Keizo Yamada",
+        "Country": "Japan",
+        "Time": "02:18:51",
+        "Marathon": "Boston"
+    },
+    {
+        "": 55,
+        "Year": 1952,
+        "Athlete": "Doroteo Flores",
+        "Country": "Guatemala",
+        "Time": "02:31:53",
+        "Marathon": "Boston"
+    },
+    {
+        "": 54,
+        "Year": 1951,
+        "Athlete": "Shigeki Tanaka",
+        "Country": "Japan",
+        "Time": "02:27:45",
+        "Marathon": "Boston"
+    },
+    {
+        "": 53,
+        "Year": 1950,
+        "Athlete": "Kee Yong",
+        "Country": "South Korea",
+        "Time": "02:32:39",
+        "Marathon": "Boston"
+    },
+    {
+        "": 52,
+        "Year": 1949,
+        "Athlete": "Karl Leandersson",
+        "Country": "Sweden",
+        "Time": "02:31:50",
+        "Marathon": "Boston"
+    },
+    {
+        "": 51,
+        "Year": 1948,
+        "Athlete": "",
+        "Country": "Canada",
+        "Time": "02:31:02",
+        "Marathon": "Boston"
+    },
+    {
+        "": 50,
+        "Year": 1947,
+        "Athlete": "Suh Yun",
+        "Country": "South Korea",
+        "Time": "02:25:39",
+        "Marathon": "Boston"
+    },
+    {
+        "": 49,
+        "Year": 1946,
+        "Athlete": "Stylianos Kyriakides",
+        "Country": "Greece",
+        "Time": "02:29:27",
+        "Marathon": "Boston"
+    },
+    {
+        "": 48,
+        "Year": 1945,
+        "Athlete": "John Kelley",
+        "Country": "United States",
+        "Time": "02:30:40",
+        "Marathon": "Boston"
+    },
+    {
+        "": 47,
+        "Year": 1944,
+        "Athlete": "",
+        "Country": "Canada",
+        "Time": "02:31:50",
+        "Marathon": "Boston"
+    },
+    {
+        "": 46,
+        "Year": 1943,
+        "Athlete": "",
+        "Country": "Canada",
+        "Time": "02:28:25",
+        "Marathon": "Boston"
+    },
+    {
+        "": 45,
+        "Year": 1942,
+        "Athlete": "Joe Smith",
+        "Country": "United States",
+        "Time": "02:26:51",
+        "Marathon": "Boston"
+    },
+    {
+        "": 44,
+        "Year": 1941,
+        "Athlete": "Leslie Pawson",
+        "Country": "United States",
+        "Time": "02:30:38",
+        "Marathon": "Boston"
+    },
+    {
+        "": 43,
+        "Year": 1940,
+        "Athlete": "",
+        "Country": "Canada",
+        "Time": "02:28:28",
+        "Marathon": "Boston"
+    },
+    {
+        "": 42,
+        "Year": 1939,
+        "Athlete": "Ellison Brown",
+        "Country": "United States",
+        "Time": "02:28:51",
+        "Marathon": "Boston"
+    },
+    {
+        "": 41,
+        "Year": 1938,
+        "Athlete": "Leslie Pawson",
+        "Country": "United States",
+        "Time": "02:35:34",
+        "Marathon": "Boston"
+    },
+    {
+        "": 40,
+        "Year": 1937,
+        "Athlete": "Walter Young",
+        "Country": "Canada",
+        "Time": "02:33:20",
+        "Marathon": "Boston"
+    },
+    {
+        "": 39,
+        "Year": 1936,
+        "Athlete": "Ellison Brown",
+        "Country": "United States",
+        "Time": "02:33:40",
+        "Marathon": "Boston"
+    },
+    {
+        "": 38,
+        "Year": 1935,
+        "Athlete": "John Kelley",
+        "Country": "United States",
+        "Time": "02:32:07",
+        "Marathon": "Boston"
+    },
+    {
+        "": 37,
+        "Year": 1934,
+        "Athlete": "Dave Komonen",
+        "Country": "Canada",
+        "Time": "02:32:53",
+        "Marathon": "Boston"
+    },
+    {
+        "": 36,
+        "Year": 1933,
+        "Athlete": "Leslie Pawson",
+        "Country": "United States",
+        "Time": "02:31:01",
+        "Marathon": "Boston"
+    },
+    {
+        "": 35,
+        "Year": 1932,
+        "Athlete": "Paul Bruyn",
+        "Country": "Germany",
+        "Time": "02:33:36",
+        "Marathon": "Boston"
+    },
+    {
+        "": 34,
+        "Year": 1931,
+        "Athlete": "James Henigan",
+        "Country": "United States",
+        "Time": "02:46:45",
+        "Marathon": "Boston"
+    },
+    {
+        "": 33,
+        "Year": 1930,
+        "Athlete": "Clarence DeMar",
+        "Country": "United States",
+        "Time": "02:34:48",
+        "Marathon": "Boston"
+    },
+    {
+        "": 32,
+        "Year": 1929,
+        "Athlete": "Johnny Miles",
+        "Country": "Canada",
+        "Time": "02:33:08",
+        "Marathon": "Boston"
+    },
+    {
+        "": 31,
+        "Year": 1928,
+        "Athlete": "Clarence DeMar",
+        "Country": "United States",
+        "Time": "02:37:07",
+        "Marathon": "Boston"
+    },
+    {
+        "": 30,
+        "Year": 1927,
+        "Athlete": "Clarence DeMar",
+        "Country": "United States",
+        "Time": "02:40:22",
+        "Marathon": "Boston"
+    },
+    {
+        "": 29,
+        "Year": 1926,
+        "Athlete": "Johnny Miles",
+        "Country": "Canada",
+        "Time": "02:25:40",
+        "Marathon": "Boston"
+    },
+    {
+        "": 28,
+        "Year": 1925,
+        "Athlete": "Charles Mellor",
+        "Country": "United States",
+        "Time": "02:33:00",
+        "Marathon": "Boston"
+    },
+    {
+        "": 27,
+        "Year": 1924,
+        "Athlete": "Clarence DeMar",
+        "Country": "United States",
+        "Time": "02:29:40",
+        "Marathon": "Boston"
+    },
+    {
+        "": 26,
+        "Year": 1923,
+        "Athlete": "Clarence DeMar",
+        "Country": "United States",
+        "Time": "02:23:47",
+        "Marathon": "Boston"
+    },
+    {
+        "": 25,
+        "Year": 1922,
+        "Athlete": "Clarence DeMar",
+        "Country": "United States",
+        "Time": "02:18:10",
+        "Marathon": "Boston"
+    },
+    {
+        "": 24,
+        "Year": 1921,
+        "Athlete": "Frank Zuna",
+        "Country": "United States",
+        "Time": "02:18:57",
+        "Marathon": "Boston"
+    },
+    {
+        "": 23,
+        "Year": 1920,
+        "Athlete": "Peter Trivoulides",
+        "Country": "Greece",
+        "Time": "02:29:31",
+        "Marathon": "Boston"
+    },
+    {
+        "": 22,
+        "Year": 1919,
+        "Athlete": "Carl Linder",
+        "Country": "United States",
+        "Time": "02:29:13",
+        "Marathon": "Boston"
+    },
+    {
+        "": 21,
+        "Year": 1918,
+        "Athlete": "Camp Devens",
+        "Country": "United States",
+        "Time": "02:29:53",
+        "Marathon": "Boston"
+    },
+    {
+        "": 20,
+        "Year": 1917,
+        "Athlete": "Bill Kennedy",
+        "Country": "United States",
+        "Time": "02:28:37",
+        "Marathon": "Boston"
+    },
+    {
+        "": 19,
+        "Year": 1916,
+        "Athlete": "Arthur Roth",
+        "Country": "United States",
+        "Time": "02:27:16",
+        "Marathon": "Boston"
+    },
+    {
+        "": 18,
+        "Year": 1915,
+        "Athlete": "Fabre Fabre",
+        "Country": "Canada",
+        "Time": "02:31:41",
+        "Marathon": "Boston"
+    },
+    {
+        "": 17,
+        "Year": 1914,
+        "Athlete": "James Duffy",
+        "Country": "Canada",
+        "Time": "02:25:14",
+        "Marathon": "Boston"
+    },
+    {
+        "": 16,
+        "Year": 1913,
+        "Athlete": "Fritz Carlson",
+        "Country": "United States",
+        "Time": "02:25:14",
+        "Marathon": "Boston"
+    },
+    {
+        "": 15,
+        "Year": 1912,
+        "Athlete": "Michael Ryan",
+        "Country": "United States",
+        "Time": "02:21:18",
+        "Marathon": "Boston"
+    },
+    {
+        "": 14,
+        "Year": 1911,
+        "Athlete": "Clarence DeMar",
+        "Country": "United States",
+        "Time": "02:21:39",
+        "Marathon": "Boston"
+    },
+    {
+        "": 13,
+        "Year": 1910,
+        "Athlete": "Fred Cameron",
+        "Country": "Canada",
+        "Time": "02:28:52",
+        "Marathon": "Boston"
+    },
+    {
+        "": 12,
+        "Year": 1909,
+        "Athlete": "Henri Renaud",
+        "Country": "United States",
+        "Time": "02:53:36",
+        "Marathon": "Boston"
+    },
+    {
+        "": 11,
+        "Year": 1908,
+        "Athlete": "Thomas Morrissey",
+        "Country": "United States",
+        "Time": "02:25:43",
+        "Marathon": "Boston"
+    },
+    {
+        "": 10,
+        "Year": 1907,
+        "Athlete": "Thomas Longboat",
+        "Country": "Canada",
+        "Time": "02:24:24",
+        "Marathon": "Boston"
+    },
+    {
+        "": 9,
+        "Year": 1906,
+        "Athlete": "Tim Ford",
+        "Country": "United States",
+        "Time": "02:45:45",
+        "Marathon": "Boston"
+    },
+    {
+        "": 8,
+        "Year": 1905,
+        "Athlete": "Frederick Lorz",
+        "Country": "United States",
+        "Time": "02:38:25",
+        "Marathon": "Boston"
+    },
+    {
+        "": 7,
+        "Year": 1904,
+        "Athlete": "Michael Spring",
+        "Country": "United States",
+        "Time": "02:38:04",
+        "Marathon": "Boston"
+    },
+    {
+        "": 6,
+        "Year": 1903,
+        "Athlete": "John Lorden",
+        "Country": "United States",
+        "Time": "02:41:29",
+        "Marathon": "Boston"
+    },
+    {
+        "": 5,
+        "Year": 1902,
+        "Athlete": "Sammy Mellor",
+        "Country": "United States",
+        "Time": "02:43:12",
+        "Marathon": "Boston"
+    },
+    {
+        "": 4,
+        "Year": 1901,
+        "Athlete": "Jack Caffery",
+        "Country": "Canada",
+        "Time": "02:29:23",
+        "Marathon": "Boston"
+    },
+    {
+        "": 3,
+        "Year": 1900,
+        "Athlete": "Jack Caffery",
+        "Country": "Canada",
+        "Time": "02:39:44",
+        "Marathon": "Boston"
+    },
+    {
+        "": 2,
+        "Year": 1899,
+        "Athlete": "Lawrence Brignolia",
+        "Country": "United States",
+        "Time": "02:54:38",
+        "Marathon": "Boston"
+    },
+    {
+        "": 1,
+        "Year": 1898,
+        "Athlete": "Ronald MacDonald",
+        "Country": "Canada",
+        "Time": "02:42:00",
+        "Marathon": "Boston"
+    },
+    {
+        "": 0,
+        "Year": 1897,
+        "Athlete": "John McDermott",
+        "Country": "United States",
+        "Time": "02:55:10",
+        "Marathon": "Boston"
+    },
+    {
+        "": 46,
+        "Year": 2017,
+        "Athlete": "Geoffrey Kamworor",
+        "Country": "Kenya",
+        "Time": "02:10:53",
+        "Marathon": "New York"
+    },
+    {
+        "": 45,
+        "Year": 2016,
+        "Athlete": "Ghirmay Ghebreslassie",
+        "Country": "Eritrea",
+        "Time": "02:07:51",
+        "Marathon": "New York"
+    },
+    {
+        "": 44,
+        "Year": 2015,
+        "Athlete": "Stanley Biwott",
+        "Country": "Kenya",
+        "Time": "02:10:34",
+        "Marathon": "New York"
+    },
+    {
+        "": 43,
+        "Year": 2014,
+        "Athlete": "Wilson Kipsang",
+        "Country": "Kenya",
+        "Time": "02:10:59",
+        "Marathon": "New York"
+    },
+    {
+        "": 42,
+        "Year": 2013,
+        "Athlete": "Geoffrey Mutai",
+        "Country": "Kenya",
+        "Time": "02:08:24",
+        "Marathon": "New York"
+    },
+    {
+        "": 41,
+        "Year": 2011,
+        "Athlete": "Geoffrey Mutai",
+        "Country": "Kenya",
+        "Time": "02:05:05",
+        "Marathon": "New York"
+    },
+    {
+        "": 40,
+        "Year": 2010,
+        "Athlete": "Gebregziabher Gebremariam",
+        "Country": "Ethiopia",
+        "Time": "02:08:14",
+        "Marathon": "New York"
+    },
+    {
+        "": 39,
+        "Year": 2009,
+        "Athlete": "Meb Keflezighi",
+        "Country": "United States",
+        "Time": "02:09:15",
+        "Marathon": "New York"
+    },
+    {
+        "": 38,
+        "Year": 2008,
+        "Athlete": "Marílson Gomes dos Santos",
+        "Country": "Brazil",
+        "Time": "02:08:43",
+        "Marathon": "New York"
+    },
+    {
+        "": 37,
+        "Year": 2007,
+        "Athlete": "Martin Lel",
+        "Country": "Kenya",
+        "Time": "02:09:04",
+        "Marathon": "New York"
+    },
+    {
+        "": 36,
+        "Year": 2006,
+        "Athlete": "Marílson Gomes dos Santos",
+        "Country": "Brazil",
+        "Time": "02:09:58",
+        "Marathon": "New York"
+    },
+    {
+        "": 35,
+        "Year": 2005,
+        "Athlete": "Paul Tergat",
+        "Country": "Kenya",
+        "Time": "02:09:30",
+        "Marathon": "New York"
+    },
+    {
+        "": 34,
+        "Year": 2004,
+        "Athlete": "Hendrick Ramaala",
+        "Country": "South Africa",
+        "Time": "02:09:28",
+        "Marathon": "New York"
+    },
+    {
+        "": 33,
+        "Year": 2003,
+        "Athlete": "Martin Lel",
+        "Country": "Kenya",
+        "Time": "02:10:30",
+        "Marathon": "New York"
+    },
+    {
+        "": 32,
+        "Year": 2002,
+        "Athlete": "Rodgers Rop",
+        "Country": "Kenya",
+        "Time": "02:08:07",
+        "Marathon": "New York"
+    },
+    {
+        "": 31,
+        "Year": 2001,
+        "Athlete": "Tesfaye Jifar",
+        "Country": "Ethiopia",
+        "Time": "02:07:43",
+        "Marathon": "New York"
+    },
+    {
+        "": 30,
+        "Year": 2000,
+        "Athlete": "Abdelkader El Mouaziz",
+        "Country": "Morocco",
+        "Time": "02:10:09",
+        "Marathon": "New York"
+    },
+    {
+        "": 29,
+        "Year": 1999,
+        "Athlete": "Joseph Chebet",
+        "Country": "Kenya",
+        "Time": "02:09:14",
+        "Marathon": "New York"
+    },
+    {
+        "": 28,
+        "Year": 1998,
+        "Athlete": "John Kagwe",
+        "Country": "Kenya",
+        "Time": "02:08:45",
+        "Marathon": "New York"
+    },
+    {
+        "": 27,
+        "Year": 1997,
+        "Athlete": "John Kagwe",
+        "Country": "Kenya",
+        "Time": "02:08:12",
+        "Marathon": "New York"
+    },
+    {
+        "": 26,
+        "Year": 1996,
+        "Athlete": "Giacomo Leone",
+        "Country": "Italy",
+        "Time": "02:09:54",
+        "Marathon": "New York"
+    },
+    {
+        "": 25,
+        "Year": 1995,
+        "Athlete": "Germán Silva",
+        "Country": "Mexico",
+        "Time": "02:11:00",
+        "Marathon": "New York"
+    },
+    {
+        "": 24,
+        "Year": 1994,
+        "Athlete": "Germán Silva",
+        "Country": "Mexico",
+        "Time": "02:11:21",
+        "Marathon": "New York"
+    },
+    {
+        "": 23,
+        "Year": 1993,
+        "Athlete": "Andrés Espinosa",
+        "Country": "Mexico",
+        "Time": "02:10:04",
+        "Marathon": "New York"
+    },
+    {
+        "": 22,
+        "Year": 1992,
+        "Athlete": "Willie Mtolo",
+        "Country": "South Africa",
+        "Time": "02:09:29",
+        "Marathon": "New York"
+    },
+    {
+        "": 21,
+        "Year": 1991,
+        "Athlete": "Salvador García",
+        "Country": "Mexico",
+        "Time": "02:09:28",
+        "Marathon": "New York"
+    },
+    {
+        "": 20,
+        "Year": 1990,
+        "Athlete": "Douglas Wakiihuri",
+        "Country": "Kenya",
+        "Time": "02:12:39",
+        "Marathon": "New York"
+    },
+    {
+        "": 19,
+        "Year": 1989,
+        "Athlete": "Juma Ikangaa",
+        "Country": "Tanzania",
+        "Time": "02:08:01",
+        "Marathon": "New York"
+    },
+    {
+        "": 18,
+        "Year": 1988,
+        "Athlete": "Steve Jones",
+        "Country": "United Kingdom",
+        "Time": "02:08:20",
+        "Marathon": "New York"
+    },
+    {
+        "": 17,
+        "Year": 1987,
+        "Athlete": "Ibrahim Hussein",
+        "Country": "Kenya",
+        "Time": "02:11:01",
+        "Marathon": "New York"
+    },
+    {
+        "": 16,
+        "Year": 1986,
+        "Athlete": "Gianni Poli",
+        "Country": "Italy",
+        "Time": "02:11:06",
+        "Marathon": "New York"
+    },
+    {
+        "": 15,
+        "Year": 1985,
+        "Athlete": "Orlando Pizzolato",
+        "Country": "Italy",
+        "Time": "02:11:34",
+        "Marathon": "New York"
+    },
+    {
+        "": 14,
+        "Year": 1984,
+        "Athlete": "Orlando Pizzolato",
+        "Country": "Italy",
+        "Time": "02:14:53",
+        "Marathon": "New York"
+    },
+    {
+        "": 13,
+        "Year": 1983,
+        "Athlete": "Rod Dixon",
+        "Country": "New Zealand",
+        "Time": "02:08:59",
+        "Marathon": "New York"
+    },
+    {
+        "": 12,
+        "Year": 1982,
+        "Athlete": "Alberto Salazar",
+        "Country": "United States",
+        "Time": "02:09:29",
+        "Marathon": "New York"
+    },
+    {
+        "": 11,
+        "Year": 1981,
+        "Athlete": "Alberto Salazar",
+        "Country": "United States",
+        "Time": "02:08:13",
+        "Marathon": "New York"
+    },
+    {
+        "": 10,
+        "Year": 1980,
+        "Athlete": "Alberto Salazar",
+        "Country": "United States",
+        "Time": "02:09:41",
+        "Marathon": "New York"
+    },
+    {
+        "": 9,
+        "Year": 1979,
+        "Athlete": "Bill Rodgers",
+        "Country": "United States",
+        "Time": "02:11:42",
+        "Marathon": "New York"
+    },
+    {
+        "": 8,
+        "Year": 1978,
+        "Athlete": "Bill Rodgers",
+        "Country": "United States",
+        "Time": "02:12:12",
+        "Marathon": "New York"
+    },
+    {
+        "": 7,
+        "Year": 1977,
+        "Athlete": "Bill Rodgers",
+        "Country": "United States",
+        "Time": "02:11:28",
+        "Marathon": "New York"
+    },
+    {
+        "": 6,
+        "Year": 1976,
+        "Athlete": "Bill Rodgers",
+        "Country": "United States",
+        "Time": "02:10:10",
+        "Marathon": "New York"
+    },
+    {
+        "": 5,
+        "Year": 1975,
+        "Athlete": "Tom Fleming",
+        "Country": "United States",
+        "Time": "02:19:27",
+        "Marathon": "New York"
+    },
+    {
+        "": 4,
+        "Year": 1974,
+        "Athlete": "Norbert Sander",
+        "Country": "United States",
+        "Time": "02:26:30",
+        "Marathon": "New York"
+    },
+    {
+        "": 3,
+        "Year": 1973,
+        "Athlete": "Tom Fleming",
+        "Country": "United States",
+        "Time": "02:21:54",
+        "Marathon": "New York"
+    },
+    {
+        "": 2,
+        "Year": 1972,
+        "Athlete": "Sheldon Karlin",
+        "Country": "United States",
+        "Time": "02:27:52",
+        "Marathon": "New York"
+    },
+    {
+        "": 1,
+        "Year": 1971,
+        "Athlete": "Norman Higgins",
+        "Country": "United States",
+        "Time": "02:22:54",
+        "Marathon": "New York"
+    },
+    {
+        "": 0,
+        "Year": 1970,
+        "Athlete": "Gary Muhrcke",
+        "Country": "United States",
+        "Time": "02:31:38",
+        "Marathon": "New York"
+    },
+    {
+        "": 40,
+        "Year": 2018,
+        "Athlete": "Mo Farah",
+        "Country": "United Kingdom",
+        "Time": "02:05:11",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 39,
+        "Year": 2017,
+        "Athlete": "Galen Rupp",
+        "Country": "United States",
+        "Time": "02:09:20",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 38,
+        "Year": 2016,
+        "Athlete": "Abel Kirui",
+        "Country": "Kenya",
+        "Time": "02:11:23",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 37,
+        "Year": 2015,
+        "Athlete": "Dickson Chumba",
+        "Country": "Kenya",
+        "Time": "02:09:25",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 36,
+        "Year": 2014,
+        "Athlete": "Eliud Kipchoge",
+        "Country": "Kenya",
+        "Time": "02:04:11",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 35,
+        "Year": 2013,
+        "Athlete": "Dennis Kimetto",
+        "Country": "Kenya",
+        "Time": "02:03:45",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 34,
+        "Year": 2012,
+        "Athlete": "Tsegaye Kebede",
+        "Country": "Ethiopia",
+        "Time": "02:04:38",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 33,
+        "Year": 2011,
+        "Athlete": "Moses Mosop",
+        "Country": "Kenya",
+        "Time": "02:05:37",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 32,
+        "Year": 2010,
+        "Athlete": "Samuel Wanjiru",
+        "Country": "Kenya",
+        "Time": "02:06:23",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 31,
+        "Year": 2009,
+        "Athlete": "Samuel Wanjiru",
+        "Country": "Kenya",
+        "Time": "02:05:41",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 30,
+        "Year": 2008,
+        "Athlete": "Evans Cheruiyot",
+        "Country": "Kenya",
+        "Time": "02:06:25",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 29,
+        "Year": 2007,
+        "Athlete": "Patrick Ivuti",
+        "Country": "Kenya",
+        "Time": "02:11:11",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 28,
+        "Year": 2006,
+        "Athlete": "Robert Cheruiyot",
+        "Country": "Kenya",
+        "Time": "02:07:35",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 27,
+        "Year": 2005,
+        "Athlete": "Felix Limo",
+        "Country": "Kenya",
+        "Time": "02:07:02",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 26,
+        "Year": 2004,
+        "Athlete": "Evans Rutto",
+        "Country": "Kenya",
+        "Time": "02:06:16",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 25,
+        "Year": 2003,
+        "Athlete": "Evans Rutto",
+        "Country": "Kenya",
+        "Time": "02:05:50",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 24,
+        "Year": 2002,
+        "Athlete": "Khalid Khannouchi",
+        "Country": "United States",
+        "Time": "02:05:56",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 23,
+        "Year": 2001,
+        "Athlete": "Ben Kimondiu",
+        "Country": "Kenya",
+        "Time": "02:08:52",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 22,
+        "Year": 2000,
+        "Athlete": "Khalid Khannouchi",
+        "Country": "United States",
+        "Time": "02:07:01",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 21,
+        "Year": 1999,
+        "Athlete": "Khalid Khannouchi",
+        "Country": "Morocco",
+        "Time": "02:05:42",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 20,
+        "Year": 1998,
+        "Athlete": "Ondoro Osoro",
+        "Country": "Kenya",
+        "Time": "02:06:54",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 19,
+        "Year": 1997,
+        "Athlete": "Khalid Khannouchi",
+        "Country": "Morocco",
+        "Time": "02:07:10",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 18,
+        "Year": 1996,
+        "Athlete": "Paul Evans",
+        "Country": "United Kingdom",
+        "Time": "02:08:52",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 17,
+        "Year": 1995,
+        "Athlete": "Eamonn Martin",
+        "Country": "United Kingdom",
+        "Time": "02:11:18",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 16,
+        "Year": 1994,
+        "Athlete": "Luíz Antônio",
+        "Country": "Brazil",
+        "Time": "02:11:16",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 15,
+        "Year": 1993,
+        "Athlete": "Luíz Antônio",
+        "Country": "Brazil",
+        "Time": "02:13:14",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 14,
+        "Year": 1992,
+        "Athlete": "José Cesar de Souza",
+        "Country": "Brazil",
+        "Time": "02:16:14",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 13,
+        "Year": 1991,
+        "Athlete": "Joseildo Rocha",
+        "Country": "Brazil",
+        "Time": "02:14:33",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 12,
+        "Year": 1990,
+        "Athlete": "Martín Pitayo",
+        "Country": "Mexico",
+        "Time": "02:09:41",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 11,
+        "Year": 1989,
+        "Athlete": "Paul Davies-Hale",
+        "Country": "United Kingdom",
+        "Time": "02:11:25",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 10,
+        "Year": 1988,
+        "Athlete": "Alejandro Cruz",
+        "Country": "Mexico",
+        "Time": "02:08:57",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 9,
+        "Year": 1986,
+        "Athlete": "Toshihiko Seko",
+        "Country": "Japan",
+        "Time": "02:08:27",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 8,
+        "Year": 1985,
+        "Athlete": "Steve Jones",
+        "Country": "United Kingdom",
+        "Time": "02:07:13",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 7,
+        "Year": 1984,
+        "Athlete": "Steve Jones",
+        "Country": "United Kingdom",
+        "Time": "02:08:05",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 6,
+        "Year": 1983,
+        "Athlete": "Joseph Nzau",
+        "Country": "Kenya",
+        "Time": "02:09:44",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 5,
+        "Year": 1982,
+        "Athlete": "Greg Meyer",
+        "Country": "United States",
+        "Time": "02:10:59",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 4,
+        "Year": 1981,
+        "Athlete": "Phil Coppess",
+        "Country": "United States",
+        "Time": "02:16:13",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 3,
+        "Year": 1980,
+        "Athlete": "Frank Richardson",
+        "Country": "United States",
+        "Time": "02:14:04",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 2,
+        "Year": 1979,
+        "Athlete": "Dan Cloeter",
+        "Country": "United States",
+        "Time": "02:23:20",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 1,
+        "Year": 1978,
+        "Athlete": "Mark Stanforth",
+        "Country": "United States",
+        "Time": "02:19:20",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 0,
+        "Year": 1977,
+        "Athlete": "Dan Cloeter",
+        "Country": "United States",
+        "Time": "02:17:52",
+        "Marathon": "Chicago"
+    },
+    {
+        "": 0,
+        "Year": 2018,
+        "Athlete": "Eliud Kipchoge",
+        "Country": "Kenya",
+        "Time": "02:01:39",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 1,
+        "Year": 2017,
+        "Athlete": "Eliud Kipchoge",
+        "Country": "Kenya",
+        "Time": "02:03:32",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 2,
+        "Year": 2016,
+        "Athlete": "Kenenisa Bekele",
+        "Country": "Ethiopia",
+        "Time": "02:03:03",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 3,
+        "Year": 2015,
+        "Athlete": "Eliud Kipchoge",
+        "Country": "Kenya",
+        "Time": "02:04:00",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 4,
+        "Year": 2014,
+        "Athlete": "Dennis Kimetto",
+        "Country": "Kenya",
+        "Time": "02:02:57",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 5,
+        "Year": 2013,
+        "Athlete": "Wilson Kipsang",
+        "Country": "Kenya",
+        "Time": "02:03:23",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 6,
+        "Year": 2012,
+        "Athlete": "Geoffrey Mutai",
+        "Country": "Kenya",
+        "Time": "02:04:15",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 7,
+        "Year": 2011,
+        "Athlete": "Patrick Musyoki",
+        "Country": "Kenya",
+        "Time": "02:03:38",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 8,
+        "Year": 2010,
+        "Athlete": "Patrick Musyoki",
+        "Country": "Kenya",
+        "Time": "02:05:08",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 9,
+        "Year": 2009,
+        "Athlete": "Haile Gebrselassie",
+        "Country": "Ethiopia",
+        "Time": "02:06:08",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 10,
+        "Year": 2008,
+        "Athlete": "Haile Gebrselassie",
+        "Country": "Ethiopia",
+        "Time": "02:03:59",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 11,
+        "Year": 2007,
+        "Athlete": "Haile Gebrselassie",
+        "Country": "Ethiopia",
+        "Time": "02:04:26",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 12,
+        "Year": 2006,
+        "Athlete": "Haile Gebrselassie",
+        "Country": "Ethiopia",
+        "Time": "02:05:56",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 13,
+        "Year": 2005,
+        "Athlete": "Philip Manyim",
+        "Country": "Kenya",
+        "Time": "02:07:41",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 14,
+        "Year": 2004,
+        "Athlete": "Felix Limo",
+        "Country": "Kenya",
+        "Time": "02:06:44",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 15,
+        "Year": 2003,
+        "Athlete": "Paul Tergat",
+        "Country": "Kenya",
+        "Time": "02:04:55",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 16,
+        "Year": 2002,
+        "Athlete": "Raymond Kipkoech",
+        "Country": "Kenya",
+        "Time": "02:06:47",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 17,
+        "Year": 2001,
+        "Athlete": "Joseph Ngolepus",
+        "Country": "Kenya",
+        "Time": "02:08:47",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 18,
+        "Year": 2000,
+        "Athlete": "Simon Biwott",
+        "Country": "Kenya",
+        "Time": "02:07:42",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 19,
+        "Year": 1999,
+        "Athlete": "Josephat Kiprono",
+        "Country": "Kenya",
+        "Time": "02:06:44",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 20,
+        "Year": 1998,
+        "Athlete": "Ronaldo da Costa",
+        "Country": "Brazil",
+        "Time": "02:06:05",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 21,
+        "Year": 1997,
+        "Athlete": "Elijah Lagat",
+        "Country": "Kenya",
+        "Time": "02:07:41",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 22,
+        "Year": 1996,
+        "Athlete": "Abel Antón",
+        "Country": "Spain",
+        "Time": "02:09:15",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 23,
+        "Year": 1995,
+        "Athlete": "Sammy Lelei",
+        "Country": "Kenya",
+        "Time": "02:07:02",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 24,
+        "Year": 1994,
+        "Athlete": "António Pinto",
+        "Country": "Portugal",
+        "Time": "02:08:31",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 25,
+        "Year": 1993,
+        "Athlete": "Xolile Yawa",
+        "Country": "South Africa",
+        "Time": "02:10:57",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 26,
+        "Year": 1992,
+        "Athlete": "David Tsebe",
+        "Country": "South Africa",
+        "Time": "02:08:07",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 27,
+        "Year": 1991,
+        "Athlete": "Steve Brace",
+        "Country": "United Kingdom",
+        "Time": "02:10:57",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 28,
+        "Year": 1990,
+        "Athlete": "Steve Moneghetti",
+        "Country": "Australia",
+        "Time": "02:08:16",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 29,
+        "Year": 1989,
+        "Athlete": "Alfredo Shahanga",
+        "Country": "Tanzania",
+        "Time": "02:10:11",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 30,
+        "Year": 1988,
+        "Athlete": "Suleiman Nyambui",
+        "Country": "Tanzania",
+        "Time": "02:11:45",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 31,
+        "Year": 1987,
+        "Athlete": "Suleiman Nyambui",
+        "Country": "Tanzania",
+        "Time": "02:11:11",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 32,
+        "Year": 1986,
+        "Athlete": "Bogus?aw Psujek",
+        "Country": "Poland",
+        "Time": "02:11:03",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 33,
+        "Year": 1985,
+        "Athlete": "Jimmy Ashworth",
+        "Country": "United Kingdom",
+        "Time": "02:11:43",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 34,
+        "Year": 1984,
+        "Athlete": "John Skovbjerg",
+        "Country": "Denmark",
+        "Time": "02:13:35",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 35,
+        "Year": 1983,
+        "Athlete": "Karel Lismont",
+        "Country": "Belgium",
+        "Time": "02:13:37",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 36,
+        "Year": 1982,
+        "Athlete": "Domingo Tibaduiza",
+        "Country": "Colombia",
+        "Time": "02:14:47",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 37,
+        "Year": 1981,
+        "Athlete": "Ian Ray",
+        "Country": "United Kingdom",
+        "Time": "02:15:42",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 38,
+        "Year": 1980,
+        "Athlete": "Ingo Sensburg",
+        "Country": "West Germany",
+        "Time": "02:16:48",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 39,
+        "Year": 1979,
+        "Athlete": "Ingo Sensburg",
+        "Country": "West Germany",
+        "Time": "02:21:09",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 40,
+        "Year": 1978,
+        "Athlete": "Michael Spöttel",
+        "Country": "West Germany",
+        "Time": "02:20:03",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 41,
+        "Year": 1977,
+        "Athlete": "Günter Mielke",
+        "Country": "West Germany",
+        "Time": "02:15:19",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 42,
+        "Year": 1976,
+        "Athlete": "Ingo Sensburg",
+        "Country": "West Germany",
+        "Time": "02:23:08",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 43,
+        "Year": 1975,
+        "Athlete": "Ralf Bochröder",
+        "Country": "West Germany",
+        "Time": "02:47:08",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 44,
+        "Year": 1974,
+        "Athlete": "Günter Hallas",
+        "Country": "West Germany",
+        "Time": "02:44:53",
+        "Marathon": "Berlin"
+    },
+    {
+        "": 37,
+        "Year": 2018,
+        "Athlete": "Eliud Kipchoge",
+        "Country": "Kenya",
+        "Time": "02:04:17",
+        "Marathon": "London"
+    },
+    {
+        "": 36,
+        "Year": 2017,
+        "Athlete": "Daniel Wanjiru",
+        "Country": "Kenya",
+        "Time": "02:05:48",
+        "Marathon": "London"
+    },
+    {
+        "": 35,
+        "Year": 2016,
+        "Athlete": "Eliud Kipchoge",
+        "Country": "Kenya",
+        "Time": "02:03:05",
+        "Marathon": "London"
+    },
+    {
+        "": 34,
+        "Year": 2015,
+        "Athlete": "Eliud Kipchoge",
+        "Country": "Kenya",
+        "Time": "02:04:42",
+        "Marathon": "London"
+    },
+    {
+        "": 33,
+        "Year": 2014,
+        "Athlete": "Wilson Kipsang",
+        "Country": "Kenya",
+        "Time": "02:04:29",
+        "Marathon": "London"
+    },
+    {
+        "": 32,
+        "Year": 2013,
+        "Athlete": "Tsegaye Kebede",
+        "Country": "Ethiopia",
+        "Time": "02:06:04",
+        "Marathon": "London"
+    },
+    {
+        "": 31,
+        "Year": 2012,
+        "Athlete": "Wilson Kipsang",
+        "Country": "Kenya",
+        "Time": "02:04:44",
+        "Marathon": "London"
+    },
+    {
+        "": 30,
+        "Year": 2011,
+        "Athlete": "Emmanuel Mutai",
+        "Country": "Kenya",
+        "Time": "02:04:40",
+        "Marathon": "London"
+    },
+    {
+        "": 29,
+        "Year": 2010,
+        "Athlete": "Tsegaye Kebede",
+        "Country": "Ethiopia",
+        "Time": "02:05:19",
+        "Marathon": "London"
+    },
+    {
+        "": 28,
+        "Year": 2009,
+        "Athlete": "Samuel Wanjiru",
+        "Country": "Kenya",
+        "Time": "02:05:10",
+        "Marathon": "London"
+    },
+    {
+        "": 27,
+        "Year": 2008,
+        "Athlete": "Martin Lel",
+        "Country": "Kenya",
+        "Time": "02:05:15",
+        "Marathon": "London"
+    },
+    {
+        "": 26,
+        "Year": 2007,
+        "Athlete": "Martin Lel",
+        "Country": "Kenya",
+        "Time": "02:07:41",
+        "Marathon": "London"
+    },
+    {
+        "": 25,
+        "Year": 2006,
+        "Athlete": "Felix Limo",
+        "Country": "Kenya",
+        "Time": "02:06:39",
+        "Marathon": "London"
+    },
+    {
+        "": 24,
+        "Year": 2005,
+        "Athlete": "Martin Lel",
+        "Country": "Kenya",
+        "Time": "02:07:35",
+        "Marathon": "London"
+    },
+    {
+        "": 23,
+        "Year": 2004,
+        "Athlete": "Evans Rutto",
+        "Country": "Kenya",
+        "Time": "02:06:18",
+        "Marathon": "London"
+    },
+    {
+        "": 22,
+        "Year": 2003,
+        "Athlete": "Gezahegne Abera",
+        "Country": "Ethiopia",
+        "Time": "02:07:56",
+        "Marathon": "London"
+    },
+    {
+        "": 21,
+        "Year": 2002,
+        "Athlete": "Khalid Khannouchi",
+        "Country": "United States",
+        "Time": "02:05:38",
+        "Marathon": "London"
+    },
+    {
+        "": 20,
+        "Year": 2001,
+        "Athlete": "Abdelkader El Mouaziz",
+        "Country": "Morocco",
+        "Time": "02:07:09",
+        "Marathon": "London"
+    },
+    {
+        "": 19,
+        "Year": 2000,
+        "Athlete": "António Pinto",
+        "Country": "Portugal",
+        "Time": "02:06:36",
+        "Marathon": "London"
+    },
+    {
+        "": 18,
+        "Year": 1999,
+        "Athlete": "Abdelkader El Mouaziz",
+        "Country": "Morocco",
+        "Time": "02:07:57",
+        "Marathon": "London"
+    },
+    {
+        "": 17,
+        "Year": 1998,
+        "Athlete": "Abel Antón",
+        "Country": "Spain",
+        "Time": "02:07:57",
+        "Marathon": "London"
+    },
+    {
+        "": 16,
+        "Year": 1997,
+        "Athlete": "António Pinto",
+        "Country": "Portugal",
+        "Time": "02:07:55",
+        "Marathon": "London"
+    },
+    {
+        "": 15,
+        "Year": 1996,
+        "Athlete": "Dionicio Cerón",
+        "Country": "Mexico",
+        "Time": "02:10:00",
+        "Marathon": "London"
+    },
+    {
+        "": 14,
+        "Year": 1995,
+        "Athlete": "Dionicio Cerón",
+        "Country": "Mexico",
+        "Time": "02:08:30",
+        "Marathon": "London"
+    },
+    {
+        "": 13,
+        "Year": 1994,
+        "Athlete": "Dionicio Cerón",
+        "Country": "Mexico",
+        "Time": "02:08:53",
+        "Marathon": "London"
+    },
+    {
+        "": 12,
+        "Year": 1993,
+        "Athlete": "Eamonn Martin",
+        "Country": "United Kingdom",
+        "Time": "02:10:50",
+        "Marathon": "London"
+    },
+    {
+        "": 11,
+        "Year": 1992,
+        "Athlete": "António Pinto",
+        "Country": "Portugal",
+        "Time": "02:10:02",
+        "Marathon": "London"
+    },
+    {
+        "": 10,
+        "Year": 1991,
+        "Athlete": "Yakov Tolstikov",
+        "Country": "Soviet Union",
+        "Time": "02:09:17",
+        "Marathon": "London"
+    },
+    {
+        "": 9,
+        "Year": 1990,
+        "Athlete": "Allister Hutton",
+        "Country": "United Kingdom",
+        "Time": "02:10:10",
+        "Marathon": "London"
+    },
+    {
+        "": 8,
+        "Year": 1989,
+        "Athlete": "Douglas Wakiihuri",
+        "Country": "Kenya",
+        "Time": "02:09:03",
+        "Marathon": "London"
+    },
+    {
+        "": 7,
+        "Year": 1988,
+        "Athlete": "Henrik Jørgensen",
+        "Country": "Denmark",
+        "Time": "02:10:20",
+        "Marathon": "London"
+    },
+    {
+        "": 6,
+        "Year": 1987,
+        "Athlete": "Hiromi Taniguchi",
+        "Country": "Japan",
+        "Time": "02:09:50",
+        "Marathon": "London"
+    },
+    {
+        "": 5,
+        "Year": 1986,
+        "Athlete": "Toshihiko Seko",
+        "Country": "Japan",
+        "Time": "02:10:02",
+        "Marathon": "London"
+    },
+    {
+        "": 4,
+        "Year": 1985,
+        "Athlete": "Steve Jones",
+        "Country": "United Kingdom",
+        "Time": "02:08:16",
+        "Marathon": "London"
+    },
+    {
+        "": 3,
+        "Year": 1984,
+        "Athlete": "Charlie Spedding",
+        "Country": "United Kingdom",
+        "Time": "02:09:57",
+        "Marathon": "London"
+    },
+    {
+        "": 2,
+        "Year": 1983,
+        "Athlete": "Mike Gratton",
+        "Country": "United Kingdom",
+        "Time": "02:09:43",
+        "Marathon": "London"
+    },
+    {
+        "": 1,
+        "Year": 1982,
+        "Athlete": "Hugh Jones",
+        "Country": "United Kingdom",
+        "Time": "02:09:24",
+        "Marathon": "London"
+    },
+    {
+        "": 0,
+        "Year": 1981,
+        "Athlete": "Dick Beardsley and Inge Simonson (Tie)",
+        "Country": "United States and Norway",
+        "Time": "02:11:48",
+        "Marathon": "London"
+    },
+    {
+        "": 0,
+        "Year": 2018,
+        "Athlete": "Dickson Chumba",
+        "Country": "Kenya",
+        "Time": "02:05:30",
+        "Marathon": "Tokyo"
+    },
+    {
+        "": 1,
+        "Year": 2017,
+        "Athlete": "Wilson Kipsang",
+        "Country": "Kenya",
+        "Time": "02:03:58",
+        "Marathon": "Tokyo"
+    },
+    {
+        "": 2,
+        "Year": 2016,
+        "Athlete": "Feyisa Lilesa",
+        "Country": "Ethiopia",
+        "Time": "02:06:56",
+        "Marathon": "Tokyo"
+    },
+    {
+        "": 3,
+        "Year": 2015,
+        "Athlete": "Endeshaw Negesse",
+        "Country": "Ethiopia",
+        "Time": "02:06:00",
+        "Marathon": "Tokyo"
+    },
+    {
+        "": 4,
+        "Year": 2014,
+        "Athlete": "Dickson Chumba",
+        "Country": "Kenya",
+        "Time": "02:05:42",
+        "Marathon": "Tokyo"
+    },
+    {
+        "": 5,
+        "Year": 2013,
+        "Athlete": "Dennis Kimetto",
+        "Country": "Kenya",
+        "Time": "02:06:50",
+        "Marathon": "Tokyo"
+    },
+    {
+        "": 6,
+        "Year": 2012,
+        "Athlete": "Michael Kipyego",
+        "Country": "Kenya",
+        "Time": "02:07:37",
+        "Marathon": "Tokyo"
+    },
+    {
+        "": 7,
+        "Year": 2011,
+        "Athlete": "Hailu Mekonnen",
+        "Country": "Ethiopia",
+        "Time": "02:07:35",
+        "Marathon": "Tokyo"
+    },
+    {
+        "": 8,
+        "Year": 2010,
+        "Athlete": "Masakazu Fujiwara",
+        "Country": "Japan",
+        "Time": "02:12:19",
+        "Marathon": "Tokyo"
+    },
+    {
+        "": 9,
+        "Year": 2009,
+        "Athlete": "Salim Kipsang",
+        "Country": "Kenya",
+        "Time": "02:10:27",
+        "Marathon": "Tokyo"
+    },
+    {
+        "": 10,
+        "Year": 2008,
+        "Athlete": "Viktor Röthlin",
+        "Country": "Switzerland",
+        "Time": "02:07:23",
+        "Marathon": "Tokyo"
+    },
+    {
+        "": 11,
+        "Year": 2007,
+        "Athlete": "Daniel Njenga",
+        "Country": "Kenya",
+        "Time": "02:09:45",
+        "Marathon": "Tokyo"
+    }
+]
